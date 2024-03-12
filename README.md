@@ -1,4 +1,4 @@
-# news-trade-web-app
+# News Trading Web App
 Customizable News Feed:
 Developed a user-friendly news trading web application where authenticated users can tailor their news feed by selecting specific subjects of interest, ensuring a personalized and relevant information experience.
 Dynamic Data Visualization:
